@@ -1,0 +1,77 @@
+body{
+    background-image: url('../img/pexels-david-yu-2081166.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header {
+    /* background-image: url("/img/pexels-david-yu-2081166.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; */
+    /* background-color: #5964b8; */
+    font-family: "Courier New", Courier, monospace;
+    color: wheat;
+    text-align: center;
+    border-style: solid;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 1px;
+  }
+  .icon {
+    font-size: 30px;
+    color: rgb(13, 71, 180);
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+   }
+
+iframe {
+  width: 100%;
+}
+body span {
+  text-align: center;
+  width: 55%;
+  height: 60%;
+  display: inline-block;
+  /* background-image: url('/img/pexels-david-yu-2081166.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; */
+  padding: 10px;
+ margin-left: 300px;
+ margin-right: 10px;
+}
+button {
+  background-color: #236091;
+  color: #c0de7f;
+  margin: auto;
+}
+button:hover {
+  background-color: #f50be5dd;
+  color: #5964b8;
+}
+h3{
+    color: aqua;
+    font-size: 50px;
+
+
+}
+p{
+    color: chartreuse;
+    font-size: 30px;
+}
+h4{
+    background-color: burlywood;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    font-size: 60px;
+    
+    
+}
+
+
+
+
+
+
